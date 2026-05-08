@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: emmanuelgarikina/myfirstrepo:busticket
+        image: shaikmustafa/paytm:movie
         ports:
         - containerPort: 80
